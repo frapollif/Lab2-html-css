@@ -18,7 +18,7 @@ h1 {
     color: rgb(255,0,0);
 }
 ```
-## Esempio di `class selector` con un contenitore `div>
+## Esempio di `class selector` con un contenitore `<div>`
 
 Se vogliamo gestire lo stile di tutta la prima sezione `30 anni di open source` che contiene un'immagine e due paragrafi andiamo ad inserire il tutto in un contenitore `<div class="block"> contenuto </div>` definendo un attributo `class="block"` da poter utilizzare nella definizione dello stile
 
@@ -44,4 +44,5 @@ Era il 25 agosto 1991 quando un giovane informatico  ...
 ```
 
 ## Risultato atteso
-![Alt text](image-1.png)
+![parte1](image-3.png)
+![parte 2](image-4.png)
